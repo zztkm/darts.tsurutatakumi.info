@@ -1,1 +1,3 @@
 # zztkm darts
+
+> がんばるぞい
