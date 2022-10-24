@@ -1,7 +1,7 @@
 title = "Be a good darts player"
 description = "record my darts life"
-base_url = 'https://darts.tsurutatakumi.info/'
-# base_url = 'http://localhost:8080/'
+# base_url = 'https://darts.tsurutatakumi.info/'
+base_url = 'http://localhost:8080/'
 
 [build]
 ignore_files = ["README.md"]
