@@ -1,23 +1,23 @@
 html {
   font-size: 10px;
   font-family: 'Open Sans', cursive;
-  background-color: #17c3b2;
+  background-color: #121212;
 }
 
 body {
-  width: 800px;
+  width: 600px;
   margin: 0 auto;
-  background-color: #ffcb77;
+  color: #ffffff;
+  background-color: #121212;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  /*border: 5px solid black;*/
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 40px;
   text-align: center;
   margin: 0;
   padding: 20px 0;
-  color: #17c3b2;
   text-shadow: 3px 3px 1px black;
 }
 
@@ -25,6 +25,10 @@ p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+a {
+  color: #57A6FF;
 }
 
 img {
